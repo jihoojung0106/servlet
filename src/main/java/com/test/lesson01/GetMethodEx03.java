@@ -24,4 +24,5 @@ public class GetMethodEx03 extends HttpServlet{
 		//{"user_id":"marobiana","name":"신보람","age":25}
 		out.print("{\"user_id\":\"marobiana\",\"name\":\"신보람\",\"age\":25}");
 	}
+	//hello
 }
